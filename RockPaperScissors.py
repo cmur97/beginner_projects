@@ -1,14 +1,4 @@
 import random
-import tkinter as tk
-#Create variables for rock, paper, and scissors
-
-#Generate rps randomly
-
-#Rock > Scissors, Scissors > Paper, Paper > Rock
-
-#Get user input
-
-
 
 counter = 0
 win = 0
