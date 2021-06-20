@@ -1,3 +1,4 @@
+# Simple program that calculates earning from investments (non-compounding)
 def earnings_calculator():
     initial_investment = int(input("Enter initial investment: "))
     num_trades = int(input("Enter the number of trades: "))
